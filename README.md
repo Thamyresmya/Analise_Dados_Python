@@ -4,15 +4,15 @@
 
 # Projeto de Análise de Dados
 
-Projeto desenvolvido em Python para analisar um banco de dados com informações de clientes de uma determinada empresa. Os dados passaram por um tratamento retirando os espaços vazios e transformando textos em números na coluna de Salário. Após tratamento foram gerados gráficos para melhor análise.
+Projeto desenvolvido em Python, junto com a galera do HashTag, para analisar um banco de dados de clientes de uma determinada empresa. Os dados passaram por um tratamento, retirando os espaços vazios e transformando textos em números na coluna de Salário. Após foram gerados os gráficos para cada coluna existente, assim a análise seria mais eficaz.
 É possível identificar qual o perfil ideal de cliente para essa empresa, apenas analisando os gráficos gerados.
 
-**Perfil ideal com base nos gráficos:**
-- Acima de 15 anos (não tem muita diferença entre as faixas etárias depois disso)
-- Faixa salarial nao parece fazer tanta diferença
-- Areas de trabalho: Entretenimento e artista (evitar construção)
-- Tem entre 10 e 15 anos de Experiencia de trabalho
-- Com familias nao tão grandes (ate no maximo 7 pessoas)
+**Perfil ideal de cliente com base nos gráficos:**
+- Acima de 15 anos (não tem muita diferença as faixas etárias depois dessa idade);
+- Faixa salarial não parece fazer tanta diferença;
+- Áreas de trabalho: Entretenimento e artista (evitar construção);
+- Tem entre 10 e 15 anos de experiência de trabalho;
+- Com famílias não tão grandes (no máximo até 7 pessoas).
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -29,9 +29,9 @@ Projeto desenvolvido em Python para analisar um banco de dados com informações
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final no repositório do GitHub](https://aluramidi-curso.vercel.app/).
+[Veja o projeto final no repositório do GitHub](https://github.com/Thamyresmya/Analise_Dados_Python).
 
-Neste repositório você tem acesso ao banco de dados do cliente.
+Neste repositório você tem acesso ao banco de dados.
 
 
 <br>
@@ -45,7 +45,6 @@ Neste repositório você tem acesso ao banco de dados do cliente.
 ![Gráfico do banco de dados](img/newplot6.png)
 ![Gráfico do banco de dados](img/newplot7.png)
 ![Gráfico do banco de dados](img/newplot8.png)
-
 
 
 <br>
